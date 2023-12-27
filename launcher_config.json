@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "PhoenixClient",
-	"newClientUrl" : "https://github.com/jacques-tony/phoenixlaucher/releases/download/1.0/PhoenixClient.zip",
+	"newClientUrl" : "https://github.com/PhoenixOT/oficial-phoenix-laucher/releases/download/1.0.0/phoenix-to-update.zip",
 	"clientExecutable": "client.exe"
 }
